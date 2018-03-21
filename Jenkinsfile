@@ -11,6 +11,7 @@ node
     stage('Build')
     {
         echo "Build the code"
+        echo "Success"
     }
     stage('Unit Testing')
     {
